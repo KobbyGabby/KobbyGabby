@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm GABRBIEL ASANTE
+# Hi, I'm GABRIEL ASANTE
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-asante-b95622161)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielasanteofficial@gmail.com)
