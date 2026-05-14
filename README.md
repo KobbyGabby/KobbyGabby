@@ -105,6 +105,5 @@ To leverage my extensive IT support background and growing cybersecurity knowled
 
 *"The only secure computer is one that's unplugged, locked in a safe, and buried 20 feet under the ground." — Bill Murray*
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabriel-asante&color=blue&style=for-the-badge)
 
 </div>
